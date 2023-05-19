@@ -53,7 +53,7 @@ const Review = () => {
 
   return (
     <>
-      <Container sx={{position : 'relative'}}>
+      <Container sx={{}}>
         <Box sx={{
               display: "flex",
               justifyContent: "center",
